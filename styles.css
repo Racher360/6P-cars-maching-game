@@ -4,8 +4,8 @@ body {
     font-family: "Madimi One", sans-serif;
     text-align: center;
     margin: 0 0 10px 0;
-    
-    
+
+
 }
 
 game {
@@ -25,6 +25,5 @@ game {
 }
 
 h1 {
-color:white;
+    color: white;
 }
-
